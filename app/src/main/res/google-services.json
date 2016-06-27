@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "985769668348",
+    "firebase_url": "https://birthday-759af.firebaseio.com",
+    "project_id": "birthday-759af",
+    "storage_bucket": "birthday-759af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985769668348:android:56afc7bd739b52f4",
+        "android_client_info": {
+          "package_name": "com.example.hashizumeakitoshi.navigationdrawersampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985769668348-c9d3h1gva9hpe57ksolj2s537enrvnon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMc8S-_Td8MrwBPD_a7NxBa9dRIco2BN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
